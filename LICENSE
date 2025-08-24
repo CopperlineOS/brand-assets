@@ -1,0 +1,21 @@
+CopperlineOS brand-assets licensing
+
+Copyright (c) 2025 CopperlineOS Project
+
+This repository contains brand assets (logos, wordmarks, icons, templates, screenshots, and documentation).
+
+ARTWORK & DOCUMENTATION LICENSE
+-------------------------------
+Licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+See: LICENSE-CC-BY-4.0 for the full legal text.
+
+TRADEMARKS
+----------
+The names “CopperlineOS” and “Copperline” and the associated logos are trademarks of the CopperlineOS Project.
+Use of the names and logos is governed by TRADEMARKS.md and is **not** granted by the CC BY 4.0 license above.
+
+NOTES
+-----
+- If you want GitHub to display a license badge for this repo, you may rename or duplicate LICENSE-CC-BY-4.0 as LICENSE
+  (containing the full CC BY 4.0 legal text). Keep TRADEMARKS.md alongside it.
+- Contributions to this repository are accepted under CC BY 4.0 for artwork and documentation, with no trademark rights granted.
